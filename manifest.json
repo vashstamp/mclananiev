@@ -6,8 +6,8 @@
     "display": "standalone",
     "orientation": "portrait",
     "categories": ["business", "lifestyle", "productivity"],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#62a5fc",
+    "background_color": "#62a5fc",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
