@@ -1,29 +1,28 @@
 {
     "name": "Michael Any",
-    "short_name": "MA",
-    "description": "Michael's Any personal portfolio application.",
+    "short_name": "michaelany",
+    "description": "The portfolio of Michael Any, Frontend Developer.",
     "start_url": ".",
     "display": "standalone",
     "orientation": "portrait",
-    "categories": ["business", "lifestyle", "productivity"],
     "theme_color": "#62a5fc",
     "background_color": "#62a5fc",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/assets/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "/assets/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
     "screenshots" : [
         {
-          "src": "/preview.png",
-          "sizes": "1200x630",
+          "src": "/assets/preview.png",
+          "sizes": "1200x403",
           "type": "image/png"
         }
     ]
