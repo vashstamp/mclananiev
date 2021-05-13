@@ -21,7 +21,7 @@
     ],
     "screenshots" : [
         {
-          "src": "/assets/og-preview.png",
+          "src": "/assets/preview.png",
           "sizes": "1200x630",
           "type": "image/png"
         }
