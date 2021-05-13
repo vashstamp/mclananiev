@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.a5547d83.chunk.css",
-    "main.js": "/static/js/main.2744b5a6.chunk.js",
+    "main.js": "/static/js/main.8417e161.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.19f002dd.js",
-    "static/js/2.cfd39a76.chunk.js": "/static/js/2.cfd39a76.chunk.js",
+    "static/js/2.cecccbe4.chunk.js": "/static/js/2.cecccbe4.chunk.js",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.cfd39a76.chunk.js.LICENSE.txt": "/static/js/2.cfd39a76.chunk.js.LICENSE.txt",
+    "static/js/2.cecccbe4.chunk.js.LICENSE.txt": "/static/js/2.cecccbe4.chunk.js.LICENSE.txt",
     "static/media/12saffron.png": "/static/media/12saffron.659482da.png",
     "static/media/12saffron@2x.png": "/static/media/12saffron@2x.0e05e2cc.png",
     "static/media/12saffron_sm.png": "/static/media/12saffron_sm.4e31abdc.png",
@@ -450,8 +450,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19f002dd.js",
-    "static/js/2.cfd39a76.chunk.js",
+    "static/js/2.cecccbe4.chunk.js",
     "static/css/main.a5547d83.chunk.css",
-    "static/js/main.2744b5a6.chunk.js"
+    "static/js/main.8417e161.chunk.js"
   ]
 }
